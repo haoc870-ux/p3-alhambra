@@ -1,0 +1,6 @@
+Visual reference: supplied assets/motif-user-beaded.png. Original right-hand Shape, Edge/Detail, Gold bead border, Central material, Frame text and original scroll bands preserved from V83. No extra detail section.
+Official product: https://www.vancleefarpels.com/us/en/collections/jewelry/alhambra/vcara45800---vintage-alhambra-pendant.html
+Official motif size guide: https://www.vancleefarpels.com/content/dam/vancleefarpels/pdf-guides/size-guides/size-guide-alhambra-pendant/van-cleef-arpels-motif-size-guide-alhambra-fr.pdf (Vintage motif approximately 15 mm; indicative, handmade variation).
+Official savoir-faire: https://www.vancleefarpels.com/bh/en/events/the-alhambra-collection-the-van-cleef-arpels-icon-of-luck.html (double beaded contour; rounded claws).
+Photo-derived relief: exact original front image; 40 front bead positions measured from image highlights, matching rear row, thin continuous support and black center. Only conservative small-angle views are shown; no stone colour change or exploded assembly. This is not an official CAD model and its depth is not a measured manufacturing dimension.
+Diamond hallmark: official SVG sprite, logo view: https://www.vancleefarpels.com/etc.clientlibs/richemont-vca/ui/clientlibs/vca-resources/resources/iconssprite/view/sprite.svg#logo

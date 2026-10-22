@@ -1,0 +1,4 @@
+Navigation layout: https://emergencemagazine.org/engage/
+V85 restores the original navigation type treatment and replaces the wordmark with the official diamond hallmark.
+Model methodology and references: MOTIF_REFERENCE_NOTES.txt
+Three.js 0.186.1 (MIT; licence in assets/vendor/LICENSE).

@@ -1,0 +1,2 @@
+Chapter loader: original SVG silhouette and flap keyframes from https://www.vancleefarpels.com/us/en/events/the-alhambra-collection-the-van-cleef-arpels-icon-of-luck.html
+Landing flight: user-supplied grid-container-butterfly-wide.png (animated PNG, 443 frames). Original retained; a smaller accelerated animated WebP plays the complete flight during the three-second opening.
